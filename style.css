@@ -324,5 +324,7 @@ background-position-y:50%;
     justify-content: space-around;
     gap: 4rem;
 }
-
+ .footer-links{
+    align-items: start;
+ }
 }
